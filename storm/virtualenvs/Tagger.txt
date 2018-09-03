@@ -1,0 +1,6 @@
+streamparse # always required for streamparse projects
+pykafka
+tensorflow
+keras
+pillow
+cassandra-driver
